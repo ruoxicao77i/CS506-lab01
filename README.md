@@ -8,5 +8,7 @@ Your assignment:
 7. Commit and push your branch to your fork
 8. Open a pull request to the original repository (you will get credit for your name appearing in names.md after the PR is approved)
 
+Feel free to message me on Discord or email me with any issues/questions!
+
 The video will walk you through how to do all of it!
 Video URL: 
